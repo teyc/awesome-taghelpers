@@ -27,6 +27,14 @@ Open source ASP.net tag helpers
    
    - [ToggleTagHelper](https://github.com/despos/ProgCore/blob/master/Src/Ch06/BootstrapTagHelpers/Common/ToggleTagHelper.cs)
 
+- [Octicons.TagHelper](https://github.com/alex-gausman/Octicons.TagHelper) An ASP.NET Core Tag Helper for GitHub's Octicons
+
+- [Social TagHelper's using ASP.NET Core](https://github.com/Dotnet-Boxed/Framework#social-network-meta-tags)
+
+   - Twitter cards `<twitter-card-summary-large-image username="@@RehanSaeedUK">`
+   
+   - OpenGraph (Facebook)
+
 - https://github.com/brecons/bootstrap-tag-helper
 
 - https://github.com/hishamco/PowerBI-TagHelper
