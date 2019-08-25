@@ -1,8 +1,18 @@
 # awesome-taghelpers
 
-## ASP.net core MVC controls Toolkit
+## ASP.net core MVC controls Toolkit (Open Source Apache licensed)
 
 https://github.com/MvcControlsToolkit/Home The first controls suite completely based on TagHelpers. A big set of controls that target database centric web apps.
+
+  - Autocomplete [example](http://examples.aspnetcore.mvc-controls.com/InputExamples/AutoComplete)
+  
+  - Number [example](http://examples.aspnetcore.mvc-controls.com/InputExamples/Number)
+  
+  - Color [example](http://examples.aspnetcore.mvc-controls.com/InputExamples/Color)
+  
+  - Server-Grid [example](http://examples.aspnetcore.mvc-controls.com/Grids/ReadonlyComputed)
+  
+  - more when I've time to fill this out
 
 ## Open source ASP.net tag helpers
 
