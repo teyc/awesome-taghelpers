@@ -21,6 +21,12 @@ Open source ASP.net tag helpers
  
 - [Westwind.AspNetCore.Markdown](https://github.com/RickStrahl/Westwind.AspNetCore.Markdown)
 
+- [Dino Esposito BootstrapTagHelpers](https://github.com/despos/ProgCore/blob/master/Src/Ch06/BootstrapTagHelpers)
+
+   - [ModalContentTagHelper](https://github.com/despos/ProgCore/blob/master/Src/Ch06/BootstrapTagHelpers/Common/ModalContentTagHelper.cs) [tutorial](https://www.red-gate.com/simple-talk/dotnet/asp-net/asp-net-core-tag-helpers-bootstrap/)
+   
+   - [ToggleTagHelper](https://github.com/despos/ProgCore/blob/master/Src/Ch06/BootstrapTagHelpers/Common/ToggleTagHelper.cs)
+
 - https://github.com/brecons/bootstrap-tag-helper
 
 - https://github.com/hishamco/PowerBI-TagHelper
